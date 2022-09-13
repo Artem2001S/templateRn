@@ -1,8 +1,8 @@
 {
-  "name": "react-native-new-template",
-  "version": "0.0.5",
+  "name": "webviewtemplate",
+  "version": "0.0.1",
   "description": "React Native Template",
-  "repository": "git@github.com:Esemesek/react-native-new-template.git",
-  "author": "Kacper Wiszczuk <kacperwiszczuk@gmail.com>",
+  "repository": "https://github.com/Artem2001S/templateRn.git",
+  "author": "Artem Kazaryan",
   "license": "MIT"
 }

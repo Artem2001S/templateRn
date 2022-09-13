@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./",
+      "paths": {
+        "@/*": ["./src/*"],
+        "react-native-calendars": ["node_modules/@types/react-native-calendars"]
+      }
+  
+    }
+  }
+  
